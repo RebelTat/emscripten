@@ -2,7 +2,7 @@
   "private": true,
   "devDependencies": {
     "es-check": "^5.1.0",
-    "ws": "~0.4.28"
+    "ws": "~1.1.5"
   },
   "dependencies": {
     "acorn": "7.3.1",
